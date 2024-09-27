@@ -1,0 +1,7 @@
+Marker3D
+PickupAbleBody3D
+MeshInstance3D
+CollisionShape3D
+PickupHandler3D
+XRFaceModifier3D
+XRController3D

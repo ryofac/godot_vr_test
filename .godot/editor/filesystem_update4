@@ -1,0 +1,9 @@
+res://main.tscn
+res://openxr_action_map.tres
+res://objects/box.tscn
+res://pickup/pickup_handler.tscn
+res://scenes/sword.tscn
+res://pickup/pickup_handler.gd
+res://pickup/pickup_able_body.gd
+res://objects/table.tscn
+res://scenes/sword.gd

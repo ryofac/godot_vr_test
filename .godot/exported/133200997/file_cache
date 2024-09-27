@@ -1,0 +1,9 @@
+res://objects/box.tscn::eeec4b922ff68b7c27633c2fe7c25614::1727378419::res://.godot/exported/133200997/export-de8e238ef255540ee1e8ecdc4681cf26-box.scn
+res://objects/table.tscn::fa00c8d664f546e2a67e56bf8bcabce6::1727383608::res://.godot/exported/133200997/export-0e69cfa6966e6324a1cf725add8f4835-table.scn
+res://pickup/pickup_handler.tscn::9443fa2d6c2fbf8d5cd9dc951431f355::1727378341::res://.godot/exported/133200997/export-a6840eef81e87037d1590d147a813fa2-pickup_handler.scn
+res://shaders/highlight_material.tres::ce4965398c6f8ece430784de711dbf65::1724360558::res://.godot/exported/133200997/export-5298fba9222afcc9538c9975b11ae606-highlight_material.res
+res://shaders/highlight_shader.tres::85ad834b4f268ba3d032e6ede97f12e2::1724360558::res://.godot/exported/133200997/export-cbc9106f756dbdd61f5b76b23450b7af-highlight_shader.res
+res://hand_info.tscn::6e78c12732a4f0dbbce276e2efdc3145::1724360558::res://.godot/exported/133200997/export-4ee1868c58ab7dac6a71471156f08f6c-hand_info.scn
+res://main.tscn::c0024fb8e6e62f67ae960f5705b27ff8::1727383608::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
+res://openxr_action_map.tres::465c2ae8ea5ebe70dc165eac0ae2a342::1727377503::res://.godot/exported/133200997/export-a9d757fdde490682a87dc1ad8c7d3357-openxr_action_map.res
+res://scenes/sword.tscn::45a233a2edd8832fc85cb1bd0ec75717::1727383608::res://.godot/exported/133200997/export-3d6342570798a21ee00820915b18a6ff-sword.scn
